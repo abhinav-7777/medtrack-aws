@@ -3,6 +3,7 @@ from flask_mail import Mail, Message
 import boto3
 
 app = Flask(__name__)
+app.secret_key = 'your_secret_key_here'
 
 
 # ---------- AWS DynamoDB Configuration ----------
