@@ -131,18 +131,6 @@ AWS_REGION=your_region
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-(Add Screenshot)
-
-### Medication Tracker
-(Add Screenshot)
-
-### Reminder System
-(Add Screenshot)
-
----
 
 ## 🔒 Security Features
 
@@ -171,6 +159,4 @@ GitHub: https://github.com/abhinav-7777
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
